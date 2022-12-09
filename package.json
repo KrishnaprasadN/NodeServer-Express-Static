@@ -10,7 +10,7 @@
   "author": "Krishna Prasad N",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "morgan": "^1.10.0"
   }
 }
